@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+head {
+  background-color: black;
+  color: white;
+}
+
+div {
+  background-color: blue;
+  color: white;
+}
+
+h1{
+    font-family:arial;
+}
+
+h2{
+    font-family:futura;
+}
+
+image{
+position: absolute;
+width:60px;
+height: 50px;
+}
